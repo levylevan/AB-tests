@@ -1,6 +1,6 @@
 ## AB-tests
 
-Используемый стек: Python и его библиотеки Pandas, Pandahouse, Numpy, Seaborn, Scipy
+Используемый стек: SQL, Python и его библиотеки Pandas, Pandahouse, Numpy, Seaborn, Scipy.
 
 Цель: провести анализ AB-тестов внедрения новых алгоритмов рекомендации для ленты новостей.
 
